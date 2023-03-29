@@ -1,0 +1,29 @@
+[
+    {
+
+        "email": "donato@gmail.com",
+        "fullName": "lucas donato",
+        "userName": "donato",
+        "password": 1234
+    },
+    {
+        "email": "weber13lucas@gmail.com",
+        "fullName": "weber lucas",
+        "userName": "weber",
+        "password": 1234
+    },
+    {
+
+        "email": "naruto@gmail.com",
+        "fullName": "naruto uzumaki ",
+        "userName": "naruto",
+        "password": 1234
+    },
+    {
+
+        "email": "ludmila@gmail.com",
+        "fullName": "ludmila madeira",
+        "userName": "ludmila",
+        "password": 1234
+    }
+]
